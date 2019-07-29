@@ -1,6 +1,9 @@
 ## Name
 
-lua-resty-influx - OpenResty client writer for InfluxDB.
+skynet_infulxdb fork from [lua-resty-influx](https://github.com/p0pr0ck5/lua-resty-influx) skynet client writer for InfluxDB.
+
+## How to Use
+[examples](https://github.com/cloudfreexiao/skynet_influxdb/blob/master/examples/influxdb.lua)
 
 ## Status
 
